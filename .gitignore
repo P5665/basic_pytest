@@ -1,0 +1,19 @@
+# Python virtual environment
+testenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pywz
+
+# Editor-specific files
+.idea/
+.vscode/
+*.swp
+
+# Django-specific files
+*.log
+*.sqlite3
+media/
+staticfiles/
